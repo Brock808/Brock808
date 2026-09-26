@@ -63,13 +63,13 @@ Responsive movie discovery web application built with HTML, CSS, Bootstrap 5, Ja
 📊 <a href="https://github.com/Brock808/frontend-technologies-module-1-and-2">
 Student Dashboard
 </a><br>
-Interactive dashboard featuring DOM manipulation, form validation, browser APIs, timers, and dynamic content.
+Interactive dashboard featuring DOM manipulation, form validation, timers, and dynamic content.
  
 <br><br>
  
-🧠 <a href="https://github.com/Brock808">
-JavaScript Mini Projects
+✈️ <a href="https://github.com/Brock808/Travel-Explorer-Proyect">
+Travel Explorer
 </a><br>
-Collection of JavaScript projects focused on problem-solving, arrays, objects, Maps, Sets, timers, and core programming concepts.
+Travel Explorer Responsive travel discovery web application built with HTML, CSS, and Bootstrap 5.
  
 </div>
