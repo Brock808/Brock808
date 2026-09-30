@@ -53,7 +53,7 @@
  
 <div align="center">
  
-🎬 <a href="https://github.com/Brock808">
+🎬 <a href="https://github.com/Brock808/NewProject-FrontEnd-Movie-Night">
 Movie Night
 </a><br>
 Responsive movie discovery web application built with HTML, CSS, Bootstrap 5, JavaScript, and jQuery.
