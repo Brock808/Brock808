@@ -33,13 +33,13 @@
 <!-- Adding Languages -->
 <h2 align="center">💻 Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 <!-- Adding frameworks and libraries -->
 <h2 align="center">🎨 Frameworks & Libraries</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,jquery,react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,jquery" />
 </p>
 
 <!-- Adding Tools -->
