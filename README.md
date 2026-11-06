@@ -45,7 +45,7 @@
 <!-- Adding Tools -->
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,postman" />
 </p>
 
 <!-- Adding Projects -->
